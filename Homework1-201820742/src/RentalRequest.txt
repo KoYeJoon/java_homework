@@ -1,0 +1,10 @@
+Alice 1
+Bob 1
+John 1
+Daniel 1
+Crystal 1
+Elizabeth 0
+Harry 0
+Owen 0
+Henry 0
+Bryant 0

@@ -1,0 +1,10 @@
+Alice 1 5 3
+Bob 1 6 2 60
+John 1 7 1 30
+Daniel 1 8 3 5
+Crystal 1 9 10
+Elizabeth 0 0 7 100
+Harry 0 1 4 25
+Owen 0 2 1 10
+Henry 0 3 9 500
+Bryant 0 4 6
